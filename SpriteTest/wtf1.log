@@ -1,0 +1,43 @@
+glewInit: No errors
+GLEW_VERSION_2_1 is good
+No errors in GL...
+No errors in IL...
+Ready to roll
+Load img/left.png from file
+I got 512
+I got 256
+Resized
+LoadFromPixels32: about to gen...
+Pixels is there, bitch.
+InitVBO: All good...
+left.png load success
+Load img/right.png from file
+I got 512
+I got 256
+Resized
+LoadFromPixels32: about to gen...
+Pixels is there, bitch.
+InitVBO: All good...
+right.png load success
+no mID
+no mPixels32
+no mPixels8
+memset happening. yesyes
+Pixel creation went right!
+gCombined CreatePixels32 success
+Hmm... source.mPixels32 are missing...
+gLeft BlitPixels32 fail
+Hmm... source.mPixels32 are missing...
+gRight BlitPixels32 fail
+I got 1024
+I got 256
+gCombined PadPixels32 success
+InitVBO: All good...
+gCombined LoadFromPixels32 success
+Starting game loop...
+no mPixels32
+no mPixels8
+no mPixels32
+no mPixels8
+no mPixels32
+no mPixels8
