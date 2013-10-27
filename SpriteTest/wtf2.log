@@ -1,9 +1,0 @@
-SpriteSheet::SpriteSheet()
-Font::Font()
-initGL() is good...
-initIL() is good...
-Font::InitFreeType()
-initFreeType() is good...
-Font::LoadFromFile()
-SpriteSheet::FreeTexture()
-SpriteSheet::FreeSheet()
